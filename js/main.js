@@ -22,7 +22,7 @@ $(function() {
 });
 
 /*Smooth scrolling*/
-$('.cf a').on('click',function(event){
+$('.cf a').on('click',function (event){
     if(this.hash !== ''){
         event.preventDefault();
         const hash = this.hash;
