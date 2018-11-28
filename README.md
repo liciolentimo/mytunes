@@ -1,2 +1,2 @@
 # mytunes
-Landing Page from Brad Traversy
+Landing Page using html, css, javascript, and jquery
